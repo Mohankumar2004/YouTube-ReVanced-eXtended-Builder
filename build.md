@@ -1,5 +1,5 @@
-Music-arm64: 6.10.51  
 YouTube-Extended: 18.25.40  
+Music-arm64: 6.10.51  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
